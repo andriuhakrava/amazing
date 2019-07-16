@@ -151,11 +151,6 @@ ul {
 	color: #666;
 }
 
-/*
-.about-image, .instagram-image {
-	width: 25%;
-}
-*/
 .instagram {
 	padding: 84px 89px 0 210px;
 	box-sizing: border-box;
@@ -191,7 +186,6 @@ ul {
 	background: #095185;
 	border: #095185;
 	color: #fff;
-	/*transition: ease-in-out .7s;*/
 }
 
 .instagram-image {
@@ -233,7 +227,6 @@ ul {
 	z-index: 100;
 	max-width: 380px;
 	width: 100%;
-	/*width: 25%;*/
 	padding: 138px 59px 59px;
 	box-sizing: border-box;
 	background: #212227;
@@ -275,10 +268,6 @@ ul {
 .music-link:hover {
 	color: #fff;
 }
-/*
-.spotify-itunes {
-	display: flex;
-}*/
 
 .spotify {
 	display: flex;
@@ -287,7 +276,6 @@ ul {
 	padding: 132px 80px 132px 210px;
 	box-sizing: border-box;
 	max-width: 800px;
-	/*width: 50%;*/
 	background: #2ebd59;
 }
 
@@ -312,7 +300,6 @@ ul {
 	padding: 132px 280px 132px 60px;
 	box-sizing: border-box;
 	max-width: 800px;
-	/*width: 50%;*/
 	background: #282b2f;
 }
 
@@ -349,8 +336,6 @@ footer span {
 .content-copyright {
 	display: inline-block;
 	max-width: 400px;
-	/*padding-right: 116px;
-	box-sizing: border-box;*/
 	color: #919191;
 }
 
@@ -367,7 +352,6 @@ footer span {
 }
 
 .contacts {
-/*	display: inline-block;*/
 	display: flex;
 	flex-direction: column;
 	max-width: 180px;
